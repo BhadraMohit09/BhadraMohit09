@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @BhadraMohit09
+- 👀 I’m interested in Space Analysis, Aeronautics, AeroSpace, Cricket, Research and Development, Volunteering
+- 🌱 I’m currently learning WebTech, Mobile Applications, Data Mining, Software Development and i++
+- 💞️ I’m looking to collaborate on those which I dont know...
+- 📫 How to reach me +91 8780570242/mohitbhadra18@gmail.com
+- 😄 Pronouns: Human
+- ⚡ Fun fact: Yet to come
+- ॐ नमो नारायणाय
+<!---
+BhadraMohit09/BhadraMohit09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
