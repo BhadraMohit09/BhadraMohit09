@@ -3,7 +3,7 @@
 
 <img align="right" alt="NoName" style="border-radius: 100px; width: 400px; height: 250px;" src="https://media1.giphy.com/media/X2hC83T4tBVtbXoKuI/200.webp?cid=790b7611i7o9z7rt42bf11pr5a650ydsc04839w4tscvdekh&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=0e75b6&style=flat" alt="bhadramohit09" /> </p>
+<p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=0e75b6&style=flat" alt="bhadramohit09" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,10 +26,18 @@
 <br />
 - 💞️ I’m looking to collaborate on those which I dont know...
 <br />
-- 📫 How to reach me +91 8780570242/mohitbhadra18@gmail.com
-<br />
 - 😄 Pronouns: Human
 <br />
 - ⚡ Fun fact: Yet to come
+  <hr />
+ - 📫 How to reach me
+<br  />
+<li>
+    +91 8780570242
+</li>
+<li>
+    mohitbhadra18@gmail.com
+</li>
+<br />
 
 
