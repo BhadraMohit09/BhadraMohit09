@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Bhadra</h1>
 <h3 align="center">ॐ नमो नारायणाय</h3>
 
-<img align="right" alt="NoName" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt6ZDk1bHp4bzZzNzgyYW9wa2RsZnpldXN6b3AwdjViYnJveDZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/200.webp">
+<img align="center" alt="NoName" width="800" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt6ZDk1bHp4bzZzNzgyYW9wa2RsZnpldXN6b3AwdjViYnJveDZldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=0e75b6&style=flat" alt="bhadramohit09" /> </p>
 
