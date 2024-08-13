@@ -3,7 +3,7 @@
   </h1>
 <h3 align="center">ॐ नमो नारायणाय</h3>
 
-<img align="right" alt="NoName" style="border-radius: 100px; width: 400px; height: 250px;" src="https://media1.giphy.com/media/X2hC83T4tBVtbXoKuI/200.webp?cid=790b7611i7o9z7rt42bf11pr5a650ydsc04839w4tscvdekh&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="https://64.media.tumblr.com/5cff0ee682a290ade63ffadc59e20cf6/2e25fc6cf0c55504-12/s540x810/58aa157cadb2024d8ad0144e5336f0e010c2b21a.gif">
 
 <p align="left"> <img width="120" height="25" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=0e75b6&style=flat" alt="bhadramohit09" /> </p>
 
