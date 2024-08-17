@@ -5,7 +5,7 @@
 
 <img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="https://64.media.tumblr.com/5cff0ee682a290ade63ffadc59e20cf6/2e25fc6cf0c55504-12/s540x810/58aa157cadb2024d8ad0144e5336f0e010c2b21a.gif">
 
-<p align="left"> <img width="150" height="30" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=0e75b6&style=flat" alt="bhadramohit09" /> </p>
+<p align="left"> <img width="150" height="30" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=e6930e&style=flat" alt="bhadramohit09" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
