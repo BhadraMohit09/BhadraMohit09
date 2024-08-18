@@ -66,4 +66,11 @@
 </li>
 <br />
 
+<h3>🤺 Holophin Badges</h3>
+<hr />
+<p align="left">
+  <img height="100" width="100" src="https://github.com/user-attachments/assets/4f290139-ea29-4110-a946-5728b53366ec" />
+
+<img height="100" width="150" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" />
+</p>
 
