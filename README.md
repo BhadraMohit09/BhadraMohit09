@@ -18,7 +18,7 @@
 
 <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=twitter" onclick="window.location.href='https://www.twitter.com/bhadra26';"/>
+  <img id="tweet" src="https://skillicons.dev/icons?i=twitter" />
 
   <img src="https://skillicons.dev/icons?i=linkedin">
 
