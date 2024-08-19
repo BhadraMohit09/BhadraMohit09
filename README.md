@@ -42,10 +42,17 @@
 
 <h3 class="p-3" align="left">Languages and Tools:</h3>
 
-<p align="left">  
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwindcss,angular,bootstrap,python,googlecloud,flutter,mongodb,c" />
+<p align="right">  
+
+  -  *FrontEnd Development* <br /> <br />
+      <img src="https://skillicons.dev/icons?i=react,js,angular,bootstrap,css,flutter" />
+
+  - *BackEnd Development* <br /> <br />
+      <img src="https://skillicons.dev/icons?i=cs,nodejs,mongodb,express,dart,python" />
+
+  - *Platforms and Tools* <br /> <br />
+      <img src="https://skillicons.dev/icons?i=discord,googlecloud,gitlab,vscode,gatsby,github" />
     
-<br />
 <br />
 - 👀 I’m interested in Space Analysis, Aeronautics, AeroSpace, Cricket, Research and Development, Volunteering
 <br />
