@@ -16,29 +16,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<div align="left">
 
-  <a href="https://twitter.com/bhadra26" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhadra26" height="30" width="40" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=twitter" onclick="window.location.href='https://www.twitter.com/bhadra26';"/>
+
+  <img src="https://skillicons.dev/icons?i=linkedin">
+
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+
  
-  <a href="https://linkedin.com/in/bhadramohit27" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhadramohit27" height="30" width="40" />
-  </a>
-
-  <a href="https://kaggle.com/bhadramohit" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhadramohit" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/mohitbhadra27" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohitbhadra27" height="30" width="40" />
-  </a>
-
-  <a href="https://www.leetcode.com/bhadramohit" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhadramohit" height="30" width="40" />
-  </a>
-
-</p>
+</div>
 
 <h3 class="p-3" align="left">Languages and Tools:</h3>
 
