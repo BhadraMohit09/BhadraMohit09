@@ -1,9 +1,7 @@
 <h1 align="center" style="color: yellow">
   
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" height="30" style="display: inline-block; vertical-align: middle;" alt="Gif Image" /> 
-  
-  *Hi, I'm <strong>Mohit</strong>*
-  
+  Hi, I'm <strong>Mohit</strong>
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" height="35" style="display: inline-block; vertical-align: middle;" alt="Hi Gif" />
 </h1>
 
