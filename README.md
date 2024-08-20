@@ -61,6 +61,10 @@
 </li>
 <br />
 
+  <img  src="https://github-readme-stats.vercel.app/api?username=BhadraMohit09&show_icons=true&locale=en" />
+
+  <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=BhadraMohit09&theme=default&hide_border=false" />
+
 <h3>🤺 Holophin Badges</h3>
 <hr />
 <p align="left">
