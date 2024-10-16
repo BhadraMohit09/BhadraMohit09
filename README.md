@@ -8,7 +8,7 @@
 
 <h3 align="center">ॐ नमो नारायणाय</h3>
 
-<img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="https://video.twimg.com/ext_tw_video/1845922013845901315/pu/vid/avc1/1920x1080/e_IG42EKmuPrXojn.mp4?tag=14">
+<img align="right" alt="NoName" style="border-radius: 100px; width: 500px; height: 250px;" src="Shuttle.mp4">
 
 <p align="left"> 
   <img width="150" height="30" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=e6930e&style=flat" alt="bhadramohit09" /> 
