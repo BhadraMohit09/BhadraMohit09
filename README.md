@@ -69,7 +69,7 @@
 <h3>📈 GitHub Activity Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhadraMohit09&theme=react-dark&hide_border=true&bg_color=00000000&color=FFA500&line=FFD700&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhadraMohit09&theme=react-dark&hide_border=true&bg_color=00000000&color=FFA500&line=FFA900&point=C0C0C0" alt="GitHub Activity Graph" />
 </p>
 
 <h3>🐍 Contribution Snake:</h3>
