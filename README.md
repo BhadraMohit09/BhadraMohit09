@@ -66,6 +66,12 @@
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=BhadraMohit09&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<h3>📈 GitHub Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhadraMohit09&theme=react-dark&hide_border=true&bg_color=00000000" alt="GitHub Activity Graph" />
+</p>
+
 <h3>🐍 Contribution Snake:</h3>
 
 <p align="center">
