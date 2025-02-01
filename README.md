@@ -85,7 +85,7 @@
 <h3>📊 Summary:</h3>
 
 <p align="center">
-  <img width="800" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=gruvbox" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=gruvbox" alt="Profile Details" />
 </p>
 
 <h3>🏅 Holophin Badges:</h3>
