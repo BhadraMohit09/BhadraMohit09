@@ -1,7 +1,7 @@
 <h1 align="center" style="color: yellow">
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100" height="50" style="display: inline-block; vertical-align: middle;" alt="Gif Image" /> 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=You'll+find+some+boring+stuff+here!+💫+&color=FFD700" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&vCenter=true&width=200&lines=Hi+I'm+Mohit+💫+&color=FFD700" alt="Typing SVG" />
   </a>
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30" height="35" style="display: inline-block; vertical-align: middle;" alt="Hi Gif" />
 </h1>
