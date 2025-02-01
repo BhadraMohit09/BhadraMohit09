@@ -99,7 +99,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Feel+free+to+interact+💫+💫+&color=FFD700" alt="Typing SVG" />
 </a>
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/nigeriaparrot.gif" width="30" height="30"/>
