@@ -82,9 +82,11 @@
   <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=github_dark" alt="Profile Details" />
-</div>
+<h3>📊 Summary:</h3>
+
+<p align="center">
+  <img width="850" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=gruvbox" alt="Profile Details" />
+</p>
 
 <h3>🏅 Holophin Badges:</h3>
 
