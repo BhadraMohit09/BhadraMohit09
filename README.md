@@ -90,9 +90,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=gruvbox" alt="Profile Details" />
 </p>
 
-<h3>🏅 Holophin Badges:</h3>
+<h3>🏅 Badges:</h3>
 
 <p align="left">
+  <img height="100" src="https://tryhackme-badges.s3.amazonaws.com/Mohit27.png" alt="Your Image Badge" />
   <img height="100" width="100" src="https://github.com/user-attachments/assets/4f290139-ea29-4110-a946-5728b53366ec" alt="Holophin Badge 1" />
   <img height="100" width="150" src="https://github.githubassets.com/assets/profile-first-issue-dark-b8dbb02687b2.svg" alt="Holophin Badge 2" />
 </p>
