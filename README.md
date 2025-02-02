@@ -11,7 +11,7 @@
 <img align="right" alt="Astronaut GIF" style="border-radius: 100px; width: 500px; height: 350px;" src="https://media.tenor.com/sFdzKK1cHcsAAAAj/astronaut-tumble-astronaut.gif">
 
 <p align="left">
-  <img width="160" height="30" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=e6930e&style=flat" alt="bhadramohit09" />
+  <img width="155" height="30" src="https://komarev.com/ghpvc/?username=bhadramohit09&label=Profile%20views&color=e6930e&style=flat" alt="bhadramohit09" />
 </p>
 
 <h3 align="left">🌐 Connect with me:</h3>
