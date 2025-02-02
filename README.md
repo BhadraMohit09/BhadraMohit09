@@ -102,6 +102,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Feel+free+to+interact+💫+💫+&color=FFD700" alt="Typing SVG" />
 </a>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNlczFkMWkxYXVkYW1rYW1rZTVraDNod2F2NmM4c2c3c3A3bDM4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EskSzzk9dMFY1UooxD/giphy.webp" width="100" height="30"/>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E019XYJN)
 
 --------------------------------------------------------------------------------
