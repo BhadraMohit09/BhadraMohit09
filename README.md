@@ -102,6 +102,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Feel+free+to+interact+💫+💫+&color=FFD700" alt="Typing SVG" />
 </a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E019XYJN)
+
 --------------------------------------------------------------------------------
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
