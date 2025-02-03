@@ -106,6 +106,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E019XYJN)
 
+[![wakatime](https://wakatime.com/badge/user/0dfe81a8-b10c-47d9-93c3-4067746c546b.svg)](https://wakatime.com/@0dfe81a8-b10c-47d9-93c3-4067746c546b)
+
+<h3>Check some Parrots here 🦜</h3>
 --------------------------------------------------------------------------------
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
