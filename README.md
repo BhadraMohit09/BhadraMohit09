@@ -92,6 +92,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=gruvbox" alt="Profile Details" />
 </p>
 
+<h3>💫 Need help?</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="275" width="700"/>
+</p>
+<!-- ![GitHub Downtime](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+ -->
+
 <h3>🏅 Badges:</h3>
 
 <p align="left">
