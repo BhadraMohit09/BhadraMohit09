@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30" height="35" style="display: inline-block; vertical-align: middle;" alt="Hi Gif" />
 </h1>
 
+
 <h3 align="center">ॐ नमो नारायणाय</h3>
 
 <img align="right" alt="Astronaut GIF" style="border-radius: 100px; width: 500px; height: 350px;" src="https://media.tenor.com/sFdzKK1cHcsAAAAj/astronaut-tumble-astronaut.gif">
@@ -74,6 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BhadraMohit09&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=BhadraMohit09&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3>📈 GitHub Activity Graph</h3>
 
@@ -81,11 +83,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhadraMohit09&theme=react-dark&hide_border=true&bg_color=00000000&color=FFA500&line=FFA900&point=C0C0C0" alt="GitHub Activity Graph" />
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3>🐍 Contribution Snake:</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3>📊 Summary:</h3>
 
@@ -93,12 +99,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhadraMohit09&theme=gruvbox" alt="Profile Details" />
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3>💫 Need help?</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="275" width="700"/>
 </p>
 <!-- ![GitHub Downtime](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
  -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3>🏅 Badges:</h3>
 
@@ -120,7 +129,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/0dfe81a8-b10c-47d9-93c3-4067746c546b.svg)](https://wakatime.com/@0dfe81a8-b10c-47d9-93c3-4067746c546b)
 
---------------------------------------------------------------------------------
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h3>🦜 Check some Parrots here:</h3>
 
 <div>
