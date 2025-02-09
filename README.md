@@ -66,7 +66,9 @@
 </ul>
 
 <h3>📊 GitHub Stats:</h3>
-
+<!-- <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
+</div> -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BhadraMohit09&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=BhadraMohit09&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -139,3 +141,5 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+
