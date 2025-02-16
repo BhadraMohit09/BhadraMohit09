@@ -50,6 +50,8 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=You'll+find+some+boring+stuff+here!+💫+&color=FFD700" alt="Typing SVG" />
 </a>
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3>📟 Run the Code:</h3>
 
@@ -73,6 +75,8 @@ const bhadraMohit09 = {
 console.log("🚀 Meet BhadraMohit09:", bhadraMohit09);
 console.log("📫 How to reach me:", bhadraMohit09.contact);
 ```
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3>📊 GitHub Stats:</h3>
 <!-- <div>
