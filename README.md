@@ -53,7 +53,7 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3>📟 Run the Code:</h3>
+### <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="25" width="30">Run the Code:
 
 ```js
 const bhadraMohit09 = {
@@ -136,7 +136,7 @@ console.log("📫 How to reach me:", bhadraMohit09.contact);
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E019XYJN)
 
-### <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="30" width="40">Uptime 
+### <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' height="25" width="30">Uptime 
 
 [![wakatime](https://wakatime.com/badge/user/0dfe81a8-b10c-47d9-93c3-4067746c546b.svg)](https://wakatime.com/@0dfe81a8-b10c-47d9-93c3-4067746c546b)
 
