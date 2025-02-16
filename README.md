@@ -51,21 +51,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=You'll+find+some+boring+stuff+here!+💫+&color=FFD700" alt="Typing SVG" />
 </a>
 
-<h3>💡 About Me</h3>
+<h3>📟 Run the Code:</h3>
 
-- 👀 I’m interested in **Space Analysis, Aeronautics, Aerospace, Cricket, Research and Development, Volunteering**.  
-- 🌱 I’m currently learning **WebTech, Mobile Applications, Data Mining, Software Development, and i++**.  
-- 💞️ I’m looking to collaborate on **projects that expand my knowledge**.  
-- ⚡ Fun fact: **Yet to come!**  
-- 😄 Pronouns: **Human**.  
+```js
+const bhadraMohit09 = {
+  code: ["JavaScript", "Python", "C#", "C"],
+  currentFocus: "Building scalable applications & exploring AI in web tech",
+  dailyRoutine: {
+    "🌅 Morning (3 AM)": ["Travelling", "Learning"],
+    "🌞 Afternoon": ["Lazy Loading (Actively 😉)"],
+    "🌙 Evening": ["Restore Mode 🛟", "Cricket 🏏", "Tea ☕", "Stumps"]
+  },
+  challenge: "Optimizing performance while keeping things simple",
+  funFact: "Yet to come... Stay tuned! 🚀",
+  contact: {
+      phone: "Not Found",
+      email: "mohitbhadra18@gmail.com"
+    }
+};
 
-<h3>📫 How to reach me:</h3>
-
-<ul>
-  <li>📞 +91 8780570242</li>
-  <li>📞 +91 9227010435</li>
-  <li>📧 mohitbhadra18@gmail.com</li>
-</ul>
+console.log("🚀 Meet BhadraMohit09:", bhadraMohit09);
+console.log("📫 How to reach me:", bhadraMohit09.contact);
+```
 
 <h3>📊 GitHub Stats:</h3>
 <!-- <div>
